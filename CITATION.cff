@@ -7,6 +7,7 @@ authors:
     given-names: Chun-Wei
     orcid: "https://orcid.org/0009-0006-0859-5135"
     affiliation: "National Yang Ming University"
+doi: 10.5281/zenodo.24053536
 license: MIT
 repository-code: "https://github.com/jht12020304/hawkes-refracture"
 version: 1.0.0

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "hawkes-refracture: Hawkes joint frailty model of recurrent fractures and death in MrOS and SOF"
+type: software
+authors:
+  - family-names: Hsu
+    given-names: Chun-Wei
+    orcid: "https://orcid.org/0009-0006-0859-5135"
+    affiliation: "National Yang Ming University"
+license: MIT
+repository-code: "https://github.com/jht12020304/hawkes-refracture"
+version: 1.0.0
+date-released: 2026-11-08
+keywords:
+  - Hawkes process
+  - joint frailty model
+  - recurrent fractures
+  - osteoporosis
+  - MrOS
+  - SOF

@@ -1,5 +1,7 @@
 # Does a fracture trigger the next one?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24053536.svg)](https://doi.org/10.5281/zenodo.24053536)
+
 Self-exciting (Hawkes) point-process analysis of recurrent fractures in two older-adult osteoporosis
 cohorts: **MrOS** (Osteoporotic Fractures in Men Study, 5,994 men) and **SOF** (Study of
 Osteoporotic Fractures, 9,182 women).
@@ -79,6 +81,11 @@ reproduce J1. All fits also check that J2, which nests J0, J1 and J2n, has the h
 - In SOF, a second fracture at the same site within one visit interval is not observed.
 - Sex and cohort are completely confounded (MrOS is all men, SOF all women), so a sex difference
   cannot be separated from differences in study design or measurement.
+
+## Citation
+
+Please cite the archived software: Hsu, C.-W. *hawkes-refracture* (Zenodo). <https://doi.org/10.5281/zenodo.24053536>
+(concept DOI, always resolves to the latest version; v1.0.0 = `10.5281/zenodo.24053537`). See also `CITATION.cff`.
 
 ## License
 
